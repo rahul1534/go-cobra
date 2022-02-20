@@ -1,4 +1,4 @@
-module abc
+module github.com/rahul1534/go-cobra
 
 go 1.17
 
